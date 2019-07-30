@@ -1,0 +1,22 @@
+player:
+#以下是物品显示信息,可按照gui的格式来改 支持papi变量
+  name: '&b仙武士&6:&e%player_name%'
+  lore:
+  - '&2仙灵真气:&5%Xian_gas%/%Xian_maxgas%'
+  - '&3道行:&b%Xian_ability%/%Xian_maxability%'
+chest:
+  id: 299
+  name: "&b境界介绍"
+  lore: 
+  - '&4境界:&6%Xian_state%第%Xian_level%重'
+  - '&5下一个境界冲刺真气需求:%Xian_ngas%'
+  - '&7下一个境界冲刺道行需求:%Xian_nability%'
+  wz: 13
+weapon:
+  id: 267
+  name: "境界加成"
+  lore: 
+  - '&b物理伤害(AD):%Xian_AD%'
+  - '&3法术伤害(AP):%Xian_AP%'
+  - '&c真实伤害(TP):%Xian_TP%'
+  wz: 22

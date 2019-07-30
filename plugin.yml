@@ -1,0 +1,12 @@
+name: FairySeal-reload
+main: Fairy_Seal.Fan.FairySealMain
+version: 1.7
+softdepend: [PlaceholderAPI,FairyAttribute,FairyParticle,MythicMobs]
+author: qingshufan
+commands: 
+  xian: 
+     description: FairySeal
+     usage: /xian
+  cobs: 
+     description: FairySeal
+     usage: /cobs     

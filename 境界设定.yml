@@ -1,0 +1,135 @@
+CAUSEGAS:
+#玩家的第二境界代号 接下来的境界代号分别是BUILDBASE,GOLDAN,SEA,YUANGOD;
+  '0':
+    gas: 1000
+    #从凡人境界升级到该境界需求的真气
+    limitgas: 1500
+    #最大真气值
+    ability: 0
+    #从凡人境界升级到该境界需求的道行
+    limitability: 20
+    #玩家这个境界能达到的最大道行值
+    chance: 100.0
+    #突破到该境界的成功概率
+    istakeab: false
+    #突破后是否清空道行
+    AD: 1
+    #突破后增加的物理伤害
+    AP: 1
+    #突破后增加的法术伤害
+    TD: 0
+    #突破后增加的真实伤害
+    limitmind: 20
+    #最大精神值
+  '1':
+  #同上
+    gas: 1500
+    limitgas: 2000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 1
+    AP: 1
+    TD: 0
+    limitmind: 20
+  '2':
+    gas: 2000
+    limitgas: 3000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 2
+    AP: 2
+    TD: 0
+    limitmind: 20
+  '3':
+    gas: 3000
+    limitgas: 4000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 3
+    AP: 3
+    TD: 0
+    limitmind: 20
+  '4':
+    gas: 4000
+    limitgas: 5000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 4
+    AP: 4
+    TD: 0
+    limitmind: 20
+  '5':
+    gas: 5000
+    limitgas: 6000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 5
+    AP: 5
+    TD: 0
+    limitmind: 20
+  '6':
+    gas: 6000
+    limitgas: 7000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 6
+    AP: 6
+    TD: 0
+    limitmind: 20
+  '7':
+    gas: 7000
+    limitgas: 8000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 7
+    AP: 7
+    TD: 0
+    limitmind: 20
+  '8':
+    gas: 8000
+    limitgas: 9000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 8
+    AP: 8
+    TD: 0
+    limitmind: 20
+  '9':
+    gas: 9000
+    limitgas: 9000
+    ability: 0
+    limitability: 20
+    chance: 100.0
+    istakeab: false
+    AD: 9
+    AP: 9
+    TD: 0
+    limitmind: 20
+  name: "凝气"
+  #境界名称
+MORTAL:
+#玩家的初始境界
+  name: "凡人"
+  #境界名称
+  limitgas: 1000
+  #最大真气值
+  limitability: 20
+  #最大道行值
+  limitmind: 10
+  #最大精神值

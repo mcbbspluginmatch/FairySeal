@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Java/TS1.11.2/PaperSpigot-1.11.2-b1104.jar"/>
+	<classpathentry kind="lib" path="D:/Java/Java_Mainly/spigot-1.9.4-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Java/Java_Mainly/spigot-1.10-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Java/Java_Mainly/spigot-1.12.2-R0.1-SNAPSHOT-b1579.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Java/Java_Mainly/PlaceholderAPI-2.8.2 (1).jar"/>
+	<classpathentry kind="lib" path="D:/Java/TS1.12.2/plugins/FairyAttriubute-Beta1.2.1[属性附属].jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

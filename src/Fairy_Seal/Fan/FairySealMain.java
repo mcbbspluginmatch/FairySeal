@@ -32,6 +32,7 @@ import Fairy_Seal.Fan.nms.hand.CF1_12;
 import Fairy_Seal.Fan.nms.hand.CF1_9;
 import Fairy_Seal.Fan.state.StateType;
 import language.Lang;
+// 迷惑命名，迷惑缩进，迷惑代码风格 —— 754503921
 public class FairySealMain extends JavaPlugin{
 	public static Map<String,MortalData> map = new HashMap<String,MortalData>();
 	public static Map<String,SkillData> skill = new HashMap<String,SkillData>();
@@ -229,6 +230,8 @@ public class FairySealMain extends JavaPlugin{
              	  this.saveResource("境界设定.yml",false);
        	 }
          }
+        // 这个方法让我佩服的五体投地
+		// 我寻思应该是不会 break 或者 return 或者不知道有个 default 分支 —— 754503921
          public static String chinese(Integer i){
         	 List<String> c = new ArrayList<String>();
         	 switch(i){
